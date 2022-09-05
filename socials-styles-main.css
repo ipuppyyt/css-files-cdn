@@ -1,6 +1,10 @@
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url("https://ik.imagekit.io/ipuppyyt/freestocks-Imvn4PWHPcQ-unsplash_lgce7G6CO.jpg");
   background-position: 50% 50%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .u-section-1 .u-sheet-1 {
